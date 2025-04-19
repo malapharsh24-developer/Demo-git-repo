@@ -1,2 +1,2 @@
 # Demo-git-repo
-<h2>This is my first githu repo</h2>
+<h2>This is my first github repo</h2>
